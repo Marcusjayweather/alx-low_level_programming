@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main:  Entry point
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -12,7 +12,7 @@ int main(void)
 
 	for (except = 'a'; except <= 'z'; except++)
 	{
-		if (except != 'q' && except != 'e')
+		if (except != q && except != e)
 		putchar(except);
 	}
 	putchar('\n');
