@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point
+ * main: Entry point
  * Return: Always 0
  */
 int main(void)
@@ -24,3 +24,4 @@ int main(void)
 		printf("Last digit %d is %d and is 0\n", n, n % 10);
 	}
 return (0);
+}
