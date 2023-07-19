@@ -2,7 +2,7 @@
 /**
  * print_last_digit - prints the last digit of a number
  *
- * @c: The number to be printed
+ * @r: The number to be printed
  * Description: print with _putchar declared
  *
  * Return: last digit of r
@@ -19,6 +19,6 @@ int print_last_digit(int r)
 	{
 		i = r % 10;
 	}
-	_putchar((i % 10) + '0');
-	return (1 % 10);
+	_putchar(i + '0');
+	return (i);
 }
