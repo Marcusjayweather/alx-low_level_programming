@@ -13,4 +13,5 @@
 2-strlen
 3-puts
 _putchar.c
-4-print_rev 
+4-print_rev
+5-rev_string 
