@@ -12,4 +12,5 @@
 1-swap
 2-strlen
 3-puts
-_putchar.c 
+_putchar.c
+4-print_rev 
