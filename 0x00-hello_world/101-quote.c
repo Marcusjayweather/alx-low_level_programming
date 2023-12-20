@@ -1,8 +1,11 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <unistd.h>
+#include <string.h>
+#include <errno.h>
 /**
  * main - Entry 
- * return 1 (success)
+ * return 1 (Success)
  */
 int main(void)
 {
