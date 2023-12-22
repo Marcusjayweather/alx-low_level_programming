@@ -1,11 +1,9 @@
 #include "m.h"
 
 /**
- * print_school - print the log of school
+ * print_school
  *
  * Return: Nothing
- *
- * Learn more: https://www.alxafrica.com
  */
 void print_school(void)
 {
@@ -35,4 +33,3 @@ void print_school(void)
 	printf("j#00000000000000w]+]++qw#00000000000000\n");
 	printf("\"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n");
 }
-
